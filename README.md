@@ -32,6 +32,10 @@ Ainsi, un paragraphe s'écrira en HTML de la façon suivante :
 
 > il existe des tonnes de balises HTML spécifiques pour différents besoins, comme la balise `<a>` pour lier des liens, ou la balise `<img>` pour afficher des images, ou encore la balise `<body></body>` pour délimiter le contenu de ton document. [Tu en trouveras une liste non exhaustives sur MDN](https://developer.mozilla.org/fr/docs/Web/HTML/Element/body).
 
+
+## un exemple de page web complexe (optionnel)
+tu peux lire ce chapitre si tu as envie d'explorer un peu lt HTML, mais ce n'est pas essentiel, pour créer ton identité sur le monde numérique. Si tu n'as pas envie de t'embrouiller, passe directement au chapitre suivant intitulé ["Une page Web concrètement"](#concretement)
+
 Un exemple de page web avec un paragraphe de la ligne 43 à 48 <a href="https://glitch.com/edit/#!/remix/glitch-hello-website" target="_blank">glitch-hello-website</a>
 Selectionne le fichier index.html pour voir son contenu, et éventuellement au bas de la page "preview/ open preview pane" pour voir le rendu
 
@@ -50,6 +54,7 @@ Selectionne le fichier index.html pour voir son contenu, et éventuellement au b
 
 **Et rappelle-toi que si tu as des difficultés, tu peux toujours poser des questions sur [le forum du Château des Robots](https://forum.chateaudesrobots.fr/t/pour-penetrer-dans-le-monde-numerique-creez-votre-identite/187), mais maintenant tu le sais, je ne vais pas le répéter !!!**
 
+<a name="concretement"></a>
 
-## Une page concrètement.
+## Une page Web concrètement.
 Une page web est en réalité un fichier texte avec une extension particulière `.html` ou `.htm`.
