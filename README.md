@@ -13,7 +13,7 @@ Une page web s'écrit dans un language informatique que les navigateurs internet
 
 > [la page Wikipédia sur le HTML](https://fr.wikipedia.org/wiki/Hypertext_Markup_Language)
 
-> [apprendre le HTML](https://developer.mozilla.org/fr/docs/Web/HTML)
+> [apprendre le HTML sur MDN](https://developer.mozilla.org/fr/docs/Web/HTML)
 
 C'est un langage de balises, avec (à quelques exceptions près, évidemment, sinon ça ne serait pas marrant :smiley:) une balise d'ouverture **ET** une balise de fermeture, délimitées par des chevrons inférieurs et supérieurs genre `<` et `>`.
 
@@ -23,11 +23,9 @@ Par exemple `<p>` et une balise d'ouverture de "paragraphe" et `</p>`est sa bali
 Ainsi, un paragraphe s'écrira en HTML de la façon suivante : 
 
 ```html
-
 <p>
     C'est un paragraphe
 </p>
-
 ```
 
 > il existe des tonnes de balises HTML spécifiques pour différents besoins, comme la balise `<a>` pour lier des liens, ou la balise `<img>` pour afficher des images, ou encore la balise `<body></body>` pour délimiter le contenu de ton document. [Tu en trouveras une liste non exhaustives sur MDN](https://developer.mozilla.org/fr/docs/Web/HTML/Element/body).
@@ -54,7 +52,9 @@ Selectionne le fichier index.html pour voir son contenu, et éventuellement au b
 
 **Et rappelle-toi que si tu as des difficultés, tu peux toujours poser des questions sur [le forum du Château des Robots](https://forum.chateaudesrobots.fr/t/pour-penetrer-dans-le-monde-numerique-creez-votre-identite/187), mais maintenant tu le sais, je ne vais pas le répéter !!!**
 
-<a name="concretement"></a>
 
+<a name="concretement"></a>
 ## Une page Web concrètement.
-Une page web est en réalité un fichier texte avec une extension particulière `.html` ou `.htm`.
+Une page web est en réalité un fichier texte avec une extension particulière `.html` ou `.htm`
+
+
