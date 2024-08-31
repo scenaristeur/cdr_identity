@@ -10,13 +10,15 @@ Et rappelle-toi que si tu as des difficultés, tu peux toujours poser des questi
 ## Mais avant ça, quelque notions essentielles
 
 Une page web s'écrit dans un language informatique que les navigateurs internet (Edge, Firefox, Chrome, Opéra...) peuvent déchiffrer, c'est le langugage HTML. 
+
 > [la page Wikipédia sur le HTML](https://fr.wikipedia.org/wiki/Hypertext_Markup_Language)
+
 > [apprendre le HTML](https://developer.mozilla.org/fr/docs/Web/HTML)
 
 C'est un langage de balises, avec (à quelques exceptions près, évidemment, sinon ça ne serait pas marrant ;-)) une balise d'ouverture **ET** une balise de fermeture, délimitées par des chevrons inférieurs et supérieurs genre `<` et `>`.
 
 ça va jusque là ? On continue !
-Par exemplke `<p>' et une balise d'ouverture de "paragraphe" et `</p>`est sa balise de fermeture correspondante. Tu remarqueras le `/` pour la balise de fermeture.
+Par exemplke `<p>` et une balise d'ouverture de "paragraphe" et `</p>`est sa balise de fermeture correspondante. Tu remarqueras le `/` pour la balise de fermeture.
 
 Ainsi, un paragraphe s'écrira en HTML de la façon suivante : 
 
