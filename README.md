@@ -57,4 +57,5 @@ Selectionne le fichier index.html pour voir son contenu, et éventuellement au b
 ## Une page Web concrètement.
 Une page web est en réalité un fichier texte avec une extension particulière `.html` ou `.htm`
 
-
+# prêt pour la suite ? 
+- pour une autre page Web, [Jette un oeil à cette conversation](https://github.com/scenaristeur/cdr_identity/blob/main/memgpt_lili.md)
